@@ -15,7 +15,6 @@ import java.util.logging.Logger;
 
 public final class tTraps extends JavaPlugin {
     static tTraps inst;
-    static String IP;
 
     public static tTraps getInstance(){
         return inst;
